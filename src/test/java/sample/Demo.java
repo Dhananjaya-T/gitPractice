@@ -8,6 +8,7 @@ public class Demo {
 	
 	public void demo() {
 		System.out.println("github practice");
+		System.out.println("second comitt");
 	}
 
 }
